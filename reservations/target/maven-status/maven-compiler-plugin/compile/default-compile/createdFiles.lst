@@ -1,0 +1,7 @@
+com\frankmoley\landon\data\entity\Room.class
+com\frankmoley\landon\data\repository\RoomRepository.class
+com\frankmoley\ReservationsApplication.class
+com\frankmoley\data\webservice\RoomController.class
+com\frankmoley\landon\data\repository\GuestRepository.class
+com\frankmoley\data\webservice\GuestController.class
+com\frankmoley\landon\data\entity\Guest.class
